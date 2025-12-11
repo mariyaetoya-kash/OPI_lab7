@@ -1,5 +1,7 @@
 # OPI_lab7
 #mytest
+Добавление изменений:
+Kovaleva Mariya Ivanovna
 Фамилия Ковалёва
 Имя Мария
 Отчество Ивановна
